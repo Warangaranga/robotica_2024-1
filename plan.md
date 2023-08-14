@@ -1,9 +1,7 @@
 # Plan de Estudios
 
 Este es el plan de estudios oficial
-[plan_robotica.pdf](pdf/instrum_robo.pdf)
+[ENCiT](pdf/instrum_robo.pdf)
 
-otro
-
-{% include plan.html %}
+{% include plan.html name="instrum_robo.pdf" %}
 
