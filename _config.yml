@@ -1,8 +1,9 @@
 theme: minima
 autor: ma-robles
 description: página del curso
+locale: "es-mx"
 minima:
-  skin: dark
+  skin: solarized
   social_links:
-    - github: ma-robles
+    - github_user: ma-robles
     - twitter: jekyllrb
