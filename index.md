@@ -14,9 +14,9 @@ author: Miguel Ángel Robles R.
 * Jueves 11 a 14 hrs ENCiT A202
 
   ## Calificación
-| Rubro                          | Valor                       | 
-|:--------------------------------|-----------------------------:|
+| Rubro                          | Valor                       |
 
+|:--------------------------------|-----------------------------:|
 | Tareas                         | 10%                         |
 | Reportes                       | 20%                         |
 | Exámenes                       | 20%                         |
