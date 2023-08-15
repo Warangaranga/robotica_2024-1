@@ -1,4 +1,4 @@
----
+tu---
 title: Inicio
 author: Miguel Ángel Robles R.
 list_title: Iteraciones 
@@ -41,3 +41,4 @@ list_title: Iteraciones
 * Material 
   - Básico individual
   - Complementario por equipo 
+{% include social.html %}
