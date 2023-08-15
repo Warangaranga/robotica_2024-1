@@ -5,9 +5,14 @@ description: >2
   Horario:
     - Martes 12 a 15 hrs ENCiT A001
     - Jueves 11 a 14 hrs ENCiT A202
-
 locale: "es-mx"
 twitter_username: miguelrsrn
 github_username:  ma-robles
 instagram_username: mi4rob
 email: miguel.robles@atmosfera.unam.mx
+header_pages:
+  - index.md
+  - ftrabajo.md
+  - califica.md
+  - plan.md
+

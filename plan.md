@@ -1,6 +1,6 @@
-# Plan de Estudios
+# Temario
 
-Este es el plan de estudios oficial
+Este es el temario
 [ENCiT](pdf/instrum_robo.pdf)
 
 {% include addpdf.html name="instrum_robo.pdf" %}
