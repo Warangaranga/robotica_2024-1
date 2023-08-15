@@ -1,30 +1,32 @@
 ---
-title: Curso de Instrumentación Básica y Robótica ENCiT 2024-1
+title: Inicio
 author: Miguel Ángel Robles R.
 ---
-
+# Curso de Instrumentación Básica y Robótica ENCiT 2024-1
 ## Profesor
-### Miguel Ángel Robles Roldán
+* Miguel Ángel Robles Roldán
 
 ## Objetivo general
-* Hacer uso de herramientas de investigación aplicadas a las Ciencias de la Tierra, con hardware de acceso abierto.
+* *Hacer uso de herramientas de investigación aplicadas a las Ciencias de la Tierra, con hardware de acceso abierto.*
 
 ## Horario
 * Martes 12 a 15 hrs ENCiT A001
 * Jueves 11 a 14 hrs ENCiT A202
 
-  ## Calificación
+## Calificación
 
-| Rubro                          | Valor                       |
-|:-------------------------------|----------------------------:|
-| Tareas                         | 10%                         |
-| Reportes                       | 20%                         |
-| Exámenes                       | 20%                         |
-| Presentaciones                 | 20%                         |
-| Asistencia                     | 0%                          |
-| Proyecto Final (por definirse) | 30%                         |
-| Actividades Extra por tema     | -                           |
-| Examen Final                   | 80% + 20% rubros anteriores |
+| Rubro                          | Valor |
+|:-------------------------------|------:|
+| Tareas                         | 10%   |
+| Reportes                       | 20%   |
+| Exámenes                       | 20%   |
+| Presentaciones                 | 20%   |
+| Asistencia                     | 0%    |
+| Proyecto Final (por definirse) | 30%   |
+| Actividades Extra por tema     | -     |
+| Examen Final                   | 80%   |
+
+*si se hace examen final cuenta el 80%, el 20% restante corresponde a la calificación obtenida en los demás rubros
 
 ## Forma de trabajo
 * Profesor presenta introducción a los temas, deja tarea y asigna temas complementarios para exposición
