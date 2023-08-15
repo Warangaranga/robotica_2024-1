@@ -2,6 +2,12 @@ theme: minima
 autor: ma-robles
 description: página del curso
 locale: "es-mx"
+twitter_username: jekyllrb3
+github_username:  jekyll3
+email: miguel.robles@atmosfera.unam.mx
+  social_links:
+    - github: ma-robles2
+    - twitter: jekyllrb2
 minima:
   skin: solarized
   social_links:
