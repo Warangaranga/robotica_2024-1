@@ -15,8 +15,6 @@ author: Miguel Ángel Robles R.
 
   ## Calificación
 | Rubro                          | Valor                       |
-
-|:--------------------------------|-----------------------------:|
 | Tareas                         | 10%                         |
 | Reportes                       | 20%                         |
 | Exámenes                       | 20%                         |
