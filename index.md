@@ -3,6 +3,7 @@ title: Inicio
 author: Miguel Ángel Robles R.
 email: "miguel.robles@atmosfera.unam.mx"
 list_title: Iteraciones 
+layout: home
 ---
 
 # Curso de Instrumentación Básica y Robótica ENCiT 2024-1
