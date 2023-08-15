@@ -1,11 +1,9 @@
 title: Instrumentación Básica y Robótica (ENCiT 2024-1)
 theme: minima
 author: Miguel Angel Robles R
-description: 
-  Miguel Ángel Robles R.
-  - Martes 12 a 15 hrs ENCiT A001
-  - Jueves 11 a 14 hrs ENCiT A202
----
+description: |
+  - Martes 12 a 15 hrs ENCiT A001\n
+  - Jueves 11 a 14 hrs ENCiT A202\n
 locale: "es-mx"
 twitter_username: miguelrsrn
 github_username:  ma-robles
