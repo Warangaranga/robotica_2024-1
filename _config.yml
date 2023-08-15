@@ -1,7 +1,8 @@
-layout: home
+title: Instrumentación Básica y Robótica (ENCiT 2024-1)
 theme: minima
 autor: ma-robles
-description: página del curso
+description: El curso se desarrollará utilizando iteraciones,
+es decir secciones que retoman lo visto anteriormente agregando cosas nuevas.
 locale: "es-mx"
 twitter_username: miguelrsrn
 github_username:  ma-robles
