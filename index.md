@@ -1,12 +1,11 @@
 ---
-title: Inicio
+title: Home
 author: Miguel Ángel Robles R.
 email: "miguel.robles@atmosfera.unam.mx"
 list_title: Iteraciones
 layout: home
 ---
 
-# Curso de Instrumentación Básica y Robótica ENCiT 2024-1
 ## Profesor
 * Miguel Ángel Robles Roldán
 
@@ -16,6 +15,3 @@ layout: home
 ## Horario
 * Martes 12 a 15 hrs ENCiT A001
 * Jueves 11 a 14 hrs ENCiT A202
-
-
- 
