@@ -1,8 +1,9 @@
-tu---
+---
 title: Inicio
 author: Miguel Ángel Robles R.
 list_title: Iteraciones 
 ---
+
 # Curso de Instrumentación Básica y Robótica ENCiT 2024-1
 ## Profesor
 * Miguel Ángel Robles Roldán
@@ -40,5 +41,6 @@ list_title: Iteraciones
 * En cada sección se propondrán actividades para puntos extra.
 * Material 
   - Básico individual
-  - Complementario por equipo 
+  - Complementario por equipo
+
 {% include social.html %}
