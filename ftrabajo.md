@@ -1,4 +1,8 @@
-## Forma de trabajo
+---
+title: Forma de trabajo
+autor: Miguel Ángel Robles
+layout: page
+---
 * Profesor presenta introducción a los temas, deja tarea y asigna temas complementarios para exposición
 * Alumno realiza tarea y hace presentación de los temas complementarios
   - Presentación visual. Letra visible, texto resumido, contraste adecuado…
