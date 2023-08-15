@@ -1,6 +1,7 @@
 ---
 title: Inicio
 author: Miguel Ángel Robles R.
+list_title: Iteraciones 
 ---
 # Curso de Instrumentación Básica y Robótica ENCiT 2024-1
 ## Profesor
