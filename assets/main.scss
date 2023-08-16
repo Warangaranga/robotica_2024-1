@@ -6,7 +6,6 @@
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-  margin: 0;
   padding: 2px;
 }
 
@@ -66,8 +65,10 @@ a{
 }
 
 .item-soc{
-  padding: 0 8px;
+  padding: 2px 4px;
   border: 2px solid #8F3985;
+  border-radius: 5px;
+  margin: 0 1px;
 }
 .svg-icon {
     width: 16px;
