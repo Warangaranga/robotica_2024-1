@@ -6,9 +6,6 @@ list_title: Iteraciones
 layout: home
 ---
 
-### \# Profesor
-* Miguel Ángel Robles Roldán
-
 ### \# Objetivo general
 * *Hacer uso de herramientas de investigación aplicadas a las Ciencias de la Tierra, con hardware de acceso abierto.*
 
