@@ -26,6 +26,13 @@
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
+        {%- if page.hora -%}
+        Horario: {{ page.hora }}
+        {%- endif -%}
+        {%- if page.repo -%}
+        Repositorio: <a  href="{{ page.repo }}"> {{ page.repo }} </a>
+        {%- endif -%}
+
       </div>
     </div>
 
