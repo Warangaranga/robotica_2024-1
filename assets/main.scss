@@ -33,15 +33,20 @@ a{
   margin-bottom: 4px;
 }
 
-.site-footer{
+.site-footer {
   background: #F0EBF4;
+  border-top: 1px solid $grey-color-light;
+  padding: 2 0;
 }
+
+
 .footer-col{
   color: #8F3985;
 }
 
 .item-soc{
-  padding: 8px;
+  padding: 0 8px;
+  border: 2px solid #8F3985;
 }
 .svg-icon {
     width: 16px;
