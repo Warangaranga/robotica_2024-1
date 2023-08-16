@@ -37,3 +37,10 @@ a{
   display: block;
   @include relative-font-size(1.0);
 }
+.page-heading {
+  @include relative-font-size(1.0);
+}
+
+.post-list-heading {
+  @include relative-font-size(1.0);
+}
