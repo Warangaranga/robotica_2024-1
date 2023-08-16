@@ -4,14 +4,12 @@
 
   <div class="wrapper">
 
-    <h3 class="footer-heading">{{ site.title | escape }}</h3>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
-              {{ site.author | escape }}
+              Prof: {{ site.author | escape }}
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
