@@ -3,6 +3,8 @@
 ---
 @import "minima";
 
+$brand-color:      #000000 !default;
+
 body{
   background-color: #917FB3;
 }
@@ -11,12 +13,12 @@ body{
 }
 
 .item-soc{
-  padding: 4px;
+  padding: 8px;
 }
 .svg-icon {
     width: 16px;
     height: 16px;
     display: inline-block;
-    fill: #{$grey-color-light};
+    fill: #ffffff;
     padding-right: 2px;
 }
