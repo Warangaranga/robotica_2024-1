@@ -14,8 +14,13 @@ a{
   background: #F0EBF4;
 }
 
+.footer-heading {
+  @include relative-font-size(0.9);
+  margin-bottom: 4px;
+}
+
 .site-footer{
-  background: #A9CCE3;
+  background: #F0EBF4;
 }
 .footer-col{
   color: $grey-color-light;
@@ -80,5 +85,5 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: 1px;
+  margin-bottom: 4px;
 }
