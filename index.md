@@ -6,12 +6,15 @@ list_title: Iteraciones
 layout: home
 ---
 
-## Profesor
+### Profesor
 * Miguel Ángel Robles Roldán
 
-## Objetivo general
+### Objetivo general
 * *Hacer uso de herramientas de investigación aplicadas a las Ciencias de la Tierra, con hardware de acceso abierto.*
 
-## Horario
+### Repositorio
+[https://github.com/ma-robles/robotica_2024-1/](https://github.com/ma-robles/robotica_2024-1/)
+
+### Horario
 * Martes 12 a 15 hrs ENCiT A001
 * Jueves 11 a 14 hrs ENCiT A202
