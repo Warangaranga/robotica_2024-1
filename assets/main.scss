@@ -12,11 +12,12 @@ a{
 
 .site-header {
   background: #F0EBF4;
+  color: 8F3985;
 }
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
-  line-height: 10;
+  line-height: 10px;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -36,7 +37,7 @@ a{
   background: #F0EBF4;
 }
 .footer-col{
-  color: #C39BD3;
+  color: #8F3985;
 }
 
 .item-soc{
@@ -46,7 +47,7 @@ a{
     width: 16px;
     height: 16px;
     display: inline-block;
-    fill: #ffffff;
+    fill: #8F3985;
     padding-right: 2px;
 }
 
