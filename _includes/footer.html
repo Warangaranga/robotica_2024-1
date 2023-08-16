@@ -25,12 +25,11 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
         {%- if site.hora -%}
-        Horario: {{ site.hora }}
+        <p> Horario: {{ site.hora }} </p>
         {%- endif -%}
         {%- if site.repo -%}
-        Repositorio: <a  href="{{ page.repo }}"> {{ site.repo }} </a>
+        <p>Repositorio: <a  href="{{ page.repo }}"> {{ site.repo }} </a> </p>
         {%- endif -%}
 
       </div>
