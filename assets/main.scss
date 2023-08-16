@@ -32,3 +32,8 @@ a{
   font-size: $small-font-size;
   color: #79155B;
 }
+
+.post-link {
+  display: block;
+  @include relative-font-size(1.0);
+}
