@@ -105,7 +105,7 @@ a{
   margin-bottom: 1px;
 
   h2 {
-    @include relative-font-size(1);
+    @include relative-font-size(2.0);
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.75);
