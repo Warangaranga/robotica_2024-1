@@ -15,10 +15,13 @@ ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: 4px;
 }
-
+.site-nav .page-link{
+  color: #8F3985;
+}
 
 body{
-  background-color: #C39BD3;
+  background-color: #a88ccd;
+  color: #F0EBF4;
 }
 a{
   color: #0C356A;
@@ -40,10 +43,11 @@ a{
   margin: 10px 0;
   padding-right: 30px;
   float: left;
+  color: #8F3985;
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: #8F3985;
   }
 }
 
