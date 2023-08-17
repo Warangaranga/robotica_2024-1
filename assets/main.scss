@@ -10,7 +10,7 @@ dl, dd, ol, ul, figure {
 }
 
 body {
-  @media screen and (min-width: $device){
+  @media screen and (min-width: 800px){
      font: $base-font-weight #{$base-font-size2}/#{$base-line-height} $base-font-family;
      }
 }
