@@ -1,0 +1,42 @@
+---
+title: "Iteración 2: Seguidor de línea"
+date: 2023-08-24
+---
+## Objetivos
+
+### General
+  * Armar un carrito seguidor de línea 
+
+## Material 
+  * Carrito Básico (armado en Práctica 1)
+  * laptop c/Thonny
+  * Sensor óptico p/seguidor de línea (un par)
+  * cartulina blanca ( puede ser de reuso )
+  * 1 Cinta de aislar negra y tijeras 
+
+## Introducción
+Cómo pudimos observar en la práctica 1, el movimiento del carrito depende de diversos factores, como la fricción de las llantas con la superficie y la potencia proporcionada por la fuente de alimentación.
+Debido a esto, para garantizar que el carrito siga una trayectoria predeterminada, es necesario algun tipo de retroalimentación que verifique esta y permita corregir el movimiento en caso de ser necesario.
+En esta práctica utilizaremos un sensor óptico como forma de retroalimentación de manera que nos permita corregir la trayectoria que deseamos.
+
+## Modulo de seguidor de línea (sensor óptico)
+
+## Actividades
+* Instalar el módulo optico en el chasis del carrito.
+* Conectar el módulo óptico al bus 3.3V de la esp32
+* Verificar que el módulo enciende y apaga el LED correspondiente cuándo hay/no hay una superficie reflectante.
+* Conectar la salida digital de los módulos a pines disponibles en la esp32
+* Realizar el diagrama de flujo de un seguidor de línea
+* Traducir el diagrama de flujo en código y redactar
+* Crear tu pista de pruebas usando la cartulina y la cinta de aislar.
+* Debe tener forma rectangular con las esquinas redondeadas (realice la línea con un grosor de 2 cintas).
+* Cargar el código redactado como main.py en la esp32.
+* Colocar el carrito al inicio y probar.
+* Realizar una pista de prueba en forma de 8, en la intersección el grosor de la línea debe ser de una cinta para permitir que el carro la "salte".
+* De ser necesario, corrija y adapte su código.
+* Pistas extra pendientes
+* Ducomentar el proceso
+
+## Actividades fuera de clase
+* Realizar reporte de práctica
+  - fecha límite: ??
