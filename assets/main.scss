@@ -98,7 +98,8 @@ a{
 }
 
 .post-link {
-  display: block;
+  display: inline-block;
+  background: snow;
   @include relative-font-size(1.0);
 }
 .page-heading {
