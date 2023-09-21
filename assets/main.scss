@@ -28,8 +28,9 @@ ul, ol, dl, figure,
 body{
   background-color: #a88ccd;
   color: #F0EBF4;
-      background-image: url('/robotica_2024-1/assets/img/robologo2.jpeg');
-      background-repeat: repeat;
+  background-image: url('/robotica_2024-1/assets/img/robologo2.jpeg');
+  background-repeat: repeat;
+  background-blend-mode: soft-light;
 }
 a{
   color: #0C356A;
