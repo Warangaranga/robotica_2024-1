@@ -26,11 +26,12 @@ ul, ol, dl, figure,
 }
 
 body{
-  background-color: #a88ccd;
+  background-color: #332b3d;
   color: #F0EBF4;
   background-image: url('/robotica_2024-1/assets/img/robologo2.jpeg');
   background-repeat: repeat;
-  background-blend-mode: soft-light;
+  background-blend-mode: color-burn;
+  background-size: 400px;
 }
 a{
   color: #0C356A;
